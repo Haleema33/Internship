@@ -1,0 +1,20 @@
+# Ignore configuration files
+wp-config.php
+
+# Ignore the uploads folder
+wp-content/uploads/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.temp
+*.tmp
+
+# Ignore npm and composer directories
+node_modules/
+vendor/
